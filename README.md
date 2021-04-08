@@ -24,7 +24,8 @@ The software is not well tested and it's a work in progress, use at your own ris
 * python2 flask
 * python2 requests
 * python2 pysqlite3
-* python poloniex
+* python2 poloniex
+* python2 ethrpc
 
 ## Configuration
 
