@@ -20,12 +20,25 @@ The software is not well tested and it's a work in progress, use at your own ris
 ## Requirements
 
 * golang
+
+# Python 2
 * python2
 * python2 flask
 * python2 requests
 * python2 pysqlite3
 * python2 poloniex
 * python2 ethhashrpc
+
+# Python 3
+* python3
+* python3 flask
+* python3 requests
+* python3 pysqlite3
+* python3 poloniex
+* python3 ethhashrpc
+
+# Python3 Solving
+pip3 install --target=/usr/local/python3.7/site-packages --upgrade requests
 
 ## Configuration
 
